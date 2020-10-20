@@ -7,5 +7,6 @@
 <h1><font color='GREEN'>THIS IS MY FIRST PIPELINE PROJECT</font></h1>
   <h1><font color='RED'>THIS IS LALITHA</font></h1>
    <h1><font color='RED'>THIS IS AUTOMATED</font></h1>
+  <h1><font color='BLUE'>THIS IS MY FIRST APP</font></h1>
 </center>
 </html>
